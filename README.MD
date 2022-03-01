@@ -16,7 +16,7 @@ My name is Brian Sanchez and I am a self-taught person, enthusiastic, passionate
 <h2 align="left">Connect with me <img src = "./gifs/handshake.gif" width = 80px> </h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/brian-sanchez-2003" target="_blank" rel="noreferrer noopener"><img align="center" src="./svg/linkedin.svg" alt="brian-sanchez" height="30" width="40" /></a>
-<a href="https://github.com/Brian-sanchez" target="_blank" rel="noreferrer noopener"><img align="center" src="./svg/github.svg" alt="fabioaoad" height="30" width="40" /></a>
+<a href="https://github.com/Brian-sanchez" target="_blank" rel="noreferrer noopener"><img align="center" src="./svg/github.svg" alt="brian-sanchez" height="30" width="40" /></a>
 </p>
 
 <h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
