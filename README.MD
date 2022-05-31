@@ -13,13 +13,13 @@ My name is Brian Sanchez and I am a self-taught person, enthusiastic, passionate
 - 👀 I’m interested in Front End Development.
 - 📫 How to reach me: briansanchezc17@gmail.com
 
-<h2 align="left">Connect with me <img src = "./gifs/handshake.gif" width = 80px> </h2>
+<h2 align="left" align-items="center">Connect with me <img src = "./gifs/handshake.gif" width = 80px> </h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/brian-sanchez-2003" target="_blank" rel="noreferrer noopener"><img align="center" src="./svg/linkedin.svg" alt="brian-sanchez" height="30" width="40" /></a>
 <a href="https://github.com/Brian-sanchez" target="_blank" rel="noreferrer noopener"><img align="center" src="./svg/github.svg" alt="brian-sanchez" height="30" width="40" /></a>
 </p>
 
-<h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2 align="left"> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="left"> 
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
@@ -48,3 +48,6 @@ My name is Brian Sanchez and I am a self-taught person, enthusiastic, passionate
     <a href="https://sequelize.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/>
     </a>
 </p>
+
+<h2><img src="./gifs/portfoliogif.gif" height = 45px/></h2>
+<p><a href="https://briansanchez.me" target="_blank">https://briansanchez.me</a></p>
