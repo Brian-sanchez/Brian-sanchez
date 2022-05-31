@@ -11,7 +11,7 @@ My name is Brian Sanchez and I am a self-taught person, enthusiastic, passionate
 
 - 🌱 I’m currently learning TypeScript.
 - 👀 I’m interested in Front End Development.
-- 📫 How to reach me: briansanchezc17@gmail.com
+- 📫 How to reach me: contacto@briansanchez.me
 
 <h2 align="left" align-items="center">Connect with me <img src = "./gifs/handshake.gif" width = 80px> </h2>
 <p align="left">
