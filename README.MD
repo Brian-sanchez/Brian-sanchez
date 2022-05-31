@@ -9,7 +9,7 @@ My name is Brian Sanchez and I am a self-taught person, enthusiastic, passionate
 
 <img align="right" width=100px height=100px alt="side_sticker" src="./gifs/move.gif" />
 
-- 🌱 I’m currently learning Vue Js.
+- 🌱 I’m currently learning TypeScript.
 - 👀 I’m interested in Front End Development.
 - 📫 How to reach me: briansanchezc17@gmail.com
 
