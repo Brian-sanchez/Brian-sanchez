@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👨‍💻, I'm Brian Sanchez <br/> <h2 align="center">Full Stack Web Developer</h2></h1>
+<h1 align="center">Hi 👨‍💻, I'm Brian Sanchez <br/> Full Stack Web Developer </h1>
 
 <h3 align="center">
 My name is Brian Sanchez and I am a self-taught person, enthusiastic, passionate, dedicated and eager to learn new technologies every day for the growth of my training as a professional.
