@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👨‍💻, I'm Brian Sanchez a Full Stack Web Developer </h1>
 
 <h3 align="center">
-My name is Brian Sanchez and I am a self-taught person, enthusiastic, passionate, dedicated and eager to learn new technologies every day for the growth of my training as a professional.
+I am a self-taught person, enthusiastic, passionate, dedicated and eager to learn new technologies every day for the growth of my training as a professional.
 </h3>
 
 <h2> About Me </h2>
