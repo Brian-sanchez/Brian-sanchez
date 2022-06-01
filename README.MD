@@ -51,3 +51,4 @@ My name is Brian Sanchez and I am a self-taught person, enthusiastic, passionate
 
 <h2><img src="./gifs/portfoliogif.gif" height = 45px/></h2>
 <p><a href="https://briansanchez.me" target="_blank">https://briansanchez.me</a></p>
+
