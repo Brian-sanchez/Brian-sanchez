@@ -49,4 +49,4 @@ I am a self-taught person, enthusiastic, passionate, dedicated and eager to lear
 </p>
 
 <h2><img src="./gifs/portfoliogif.gif" height = 45px/></h2>
-<p><a href="https://briansanchez.me" target="_blank">https://briansanchez.me</a></p>
+<p><a href="https://briansanchez.com.ar" target="_blank">https://briansanchez.com.ar</a></p>
